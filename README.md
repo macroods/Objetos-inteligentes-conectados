@@ -53,5 +53,5 @@ Broker conectado!
 BPM atual: 60.0  
 BPM atual: 62.5  
 
-Exemplo de saída no MQTT Explorer em tempo real:
+Exemplo de saída no MQTT Explorer em tempo real:  
 BPM=62.5
